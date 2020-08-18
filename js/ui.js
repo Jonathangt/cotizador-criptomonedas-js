@@ -71,7 +71,7 @@ class Interfaz{
                   <h2 class="card-title">Resultado:</h2>
                   <p>El Precio de ${datosMoneda.FROMSYMBOL} a moneda ${datosMoneda.TOSYMBOL} es de: $ ${precio}</p>
                   <p>Variación del último día: %${porcentaje}</p>
-                  <p>Última Actualización: ${fechaActualizacion}</p>                 
+                  <p>Última Actualización: ${fechaActualizacion}</p>   			  
              </div>
         </div>`;
 
